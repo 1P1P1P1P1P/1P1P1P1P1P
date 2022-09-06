@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WUYIIIIIP
-- 👀 I’m interested in Python, Java and so on
+- 👋 Hi, I’m @1P1P1P1P1P
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 E-mail: wuyiiiiip@gmail.com  
